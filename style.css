@@ -1,0 +1,26 @@
+h1 {
+    align-content: center;
+    margin: 0px;
+}
+
+#inc {
+    outline: none;
+    margin-bottom: 10px;
+}
+
+.btn-circle.btn-lg {
+    width: 70px;
+    height: 70px;
+    padding: 7px 10px;
+    border-radius: 45px;
+    font-size: 30px;
+    font-style: oblique;
+    text-align: center; 
+}
+
+.counter {
+    font-family: monospace;
+    background-color: palegreen;
+    margin: 0px 0px 30px 0px;
+    padding: 25px;
+}
